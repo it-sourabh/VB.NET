@@ -1,0 +1,12 @@
+C:\Users\soura\source\repos\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\soura\source\repos\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\soura\source\repos\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\soura\source\repos\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\soura\source\repos\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\soura\source\repos\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\soura\source\repos\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\soura\source\repos\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\soura\source\repos\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\soura\source\repos\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\soura\source\repos\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\soura\source\repos\WindowsApp1\obj\Debug\WindowsApp1.pdb

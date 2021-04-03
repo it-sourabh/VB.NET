@@ -1,0 +1,19 @@
+C:\Users\soura\source\repos\Electricity Bill\bin\Debug\net5.0-windows\Electricity Bill.exe
+C:\Users\soura\source\repos\Electricity Bill\bin\Debug\net5.0-windows\Electricity Bill.deps.json
+C:\Users\soura\source\repos\Electricity Bill\bin\Debug\net5.0-windows\Electricity Bill.runtimeconfig.json
+C:\Users\soura\source\repos\Electricity Bill\bin\Debug\net5.0-windows\Electricity Bill.runtimeconfig.dev.json
+C:\Users\soura\source\repos\Electricity Bill\bin\Debug\net5.0-windows\Electricity Bill.dll
+C:\Users\soura\source\repos\Electricity Bill\bin\Debug\net5.0-windows\ref\Electricity Bill.dll
+C:\Users\soura\source\repos\Electricity Bill\bin\Debug\net5.0-windows\Electricity Bill.pdb
+C:\Users\soura\source\repos\Electricity Bill\obj\Debug\net5.0-windows\Electricity Bill.vbprojAssemblyReference.cache
+C:\Users\soura\source\repos\Electricity Bill\obj\Debug\net5.0-windows\Electricity_Bill.Form1.resources
+C:\Users\soura\source\repos\Electricity Bill\obj\Debug\net5.0-windows\Electricity Bill.vbproj.GenerateResource.cache
+C:\Users\soura\source\repos\Electricity Bill\obj\Debug\net5.0-windows\Electricity Bill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soura\source\repos\Electricity Bill\obj\Debug\net5.0-windows\Electricity Bill.AssemblyInfoInputs.cache
+C:\Users\soura\source\repos\Electricity Bill\obj\Debug\net5.0-windows\Electricity Bill.AssemblyInfo.vb
+C:\Users\soura\source\repos\Electricity Bill\obj\Debug\net5.0-windows\Electricity Bill.vbproj.CoreCompileInputs.cache
+C:\Users\soura\source\repos\Electricity Bill\obj\Debug\net5.0-windows\Electricity Bill.dll
+C:\Users\soura\source\repos\Electricity Bill\obj\Debug\net5.0-windows\ref\Electricity Bill.dll
+C:\Users\soura\source\repos\Electricity Bill\obj\Debug\net5.0-windows\Electricity Bill.pdb
+C:\Users\soura\source\repos\Electricity Bill\obj\Debug\net5.0-windows\Electricity Bill.genruntimeconfig.cache
+C:\Users\soura\source\repos\Electricity Bill\obj\Debug\net5.0-windows\Electricity_Bill.Form2.resources
